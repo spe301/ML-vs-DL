@@ -1,5 +1,7 @@
 # ML-vs-DL
 
+<img src="Images/head.png/">
+
 # Overview
 This is a 5 part series in which I compare the preformance of Deep Learning to that of sklearn models for individual use cases.
 
